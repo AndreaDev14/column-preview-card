@@ -3,8 +3,8 @@
 
 
 ### Screenshot
+<img width="876" alt="Captura de pantalla 2022-08-29 a las 7 21 22 p  m" src="https://user-images.githubusercontent.com/108431169/187309551-429f9306-3f5f-4719-8201-31f1ffe189cb.png">
 
-![](./screenshot.jpg)
 
 ### Built with
 
@@ -17,5 +17,5 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://andreadev14.github.io/column-preview-card/](https://andreadev14.github.io/column-preview-card/)
+- Frontend Mentor - [@AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
